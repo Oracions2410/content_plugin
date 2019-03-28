@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9.4" type="plugin" group="content" method="upgrade">
+	<name>Content - Shortcode</name>
+	<author>Oraions - Black Dexter</author>
+	<creationDate>March 2019</creationDate>
+	<copyright>Copyright (c) 2019</copyright>
+	<licence>GNU General plublic License version 2 or later</licence>
+	<authorEmail>Oracions2410@gmail.com</authorEmail>
+	<authorUrl>Olympus.hebergratuit.net</authorUrl>
+	<version>1.0</version>
+	<description>shortcode to do simple text replacement for test</description>
+	<files>
+		<filename plugin="shortcode">shortcode.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<config>
+	</config>
+</extension>
